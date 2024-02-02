@@ -1,6 +1,6 @@
 # Applied Data Science @ Columbia
 ## Spring 2024
-## Project 1: An analysis of changes between before and after getting married
+## Project 1: An analysis of changes before and after getting married
 
 ![image](figs/title.jpeg)
 
@@ -9,7 +9,7 @@ This is the first and only *individual* (as opposed to *team*) this semester.
 
 Term: Spring 2024
 
-+ Projec title: An analysis of changes between before and after getting married
++ Projec title: An analysis of changes before and after getting married
 + This project is conducted by Hongxu Lin
 
 + Project summary:Marriage is one of the important choices in life, which not only affects one's life but also has an impact on personal development. Marriage could make an individual a member of a family. Such kind of role transformation allows people to experience different lifestyles and responsibilities. In order to maintain family stability, people need more communication and coordination. This process helps cultivate people's sense of responsibility and achievement. As a way of life, entertainment is a way of making people happy. When you work for a whole busy day, entertainment allows your tired body and mind to relax a certain extent.
