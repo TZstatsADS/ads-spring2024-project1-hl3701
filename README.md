@@ -2,7 +2,7 @@
 ## Spring 2024
 ## Project 1: An analysis of changes before and after getting married
 
-![image](figs/title.jpeg)
+![image](figs/title1.jpeg)
 
 ### [Project Description](doc/Proj1_desc.md)
 This is the first and only *individual* (as opposed to *team*) this semester. 
